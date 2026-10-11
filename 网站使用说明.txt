@@ -1,0 +1,9 @@
+宋浩个人作品集
+
+打开 index.html 即可浏览，无需安装软件或启动服务。
+
+PDF：downloads/宋浩_个人作品集.pdf
+项目说明：downloads/projects/
+
+请保持 assets、projects、downloads 文件夹与 index.html 的相对位置。
+需要发布到网络时，将本目录整体部署到静态网站托管平台。
